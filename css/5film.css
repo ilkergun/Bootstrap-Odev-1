@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(228, 220, 207);
+    margin: 1rem auto;
+    width: 50%;
+    color: rgb(57, 62, 70);
+    font-family: 'Trispace', sans-serif;
+    list-style-position: inside
+
+}
+/* header {
+    margin: 1rem auto;
+    width: 50%;
+    color: rgb(57, 62, 70);
+    font-family: 'Trispace', sans-serif;
+} */
+
+
+article {
+    margin: 1rem auto;
+    width: 50%;
+    color: rgb(57, 62, 70);
+    font-family: 'Trispace', sans-serif;
+    list-style-position: inside
+}
+
+ul li {
+    display: inline;
+}
