@@ -1,30 +1,8 @@
 body {
-    background-color: rgb(228, 220, 207);
-}
+    font: 1rem/1.5 var(--font-family-sans-serif);
+    background-color: #E9ECEF;
+  }
 
-header {
-    margin: 1rem auto;
-    width: 50%;
-    color: rgb(57, 62, 70);
-    font-family: 'Trispace', sans-serif;
-}
-
-article {
-    margin: 1rem auto;
-    width: 50%;
-    color: rgb(57, 62, 70);
-    font-family: 'Trispace', sans-serif;
-    list-style-position: inside
-}
-
-li {
-    display: inline-block;
-}
-
-footer {
-    margin: 1rem auto;
-    width: 50%;
-    color: rgb(57, 62, 70);
-    font-family: 'Trispace', sans-serif;
-    list-style-position: inside
+nav {
+  background-color: #343a40 ;
 }
